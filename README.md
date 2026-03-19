@@ -27,7 +27,8 @@ zameen-realestate-analysis/
 │   └── cleaning.ipynb           # Data cleaning pipeline
 ├── sql/
 │   └── analysis_queries.sql     # All analysis queries
-└── README.md
+├── README.md
+└── zameen_analysis_dashboard.pbix
 ```
 
 ---
